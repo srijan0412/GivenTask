@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      footer
-    </div>
+    <footer>
+      &#169; Astra platforms. All rights reserved. 2023
+    </footer>
   )
 }
 

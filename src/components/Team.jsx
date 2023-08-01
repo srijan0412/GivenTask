@@ -9,7 +9,7 @@ const Team = () => {
       </div>
 
       <div className='Card_container'>
-        {TeamMembers.map((member, index) => (
+        {TeamMembers.map((member) => (
           <Card 
             name={member.name} 
             post={member.post} 
